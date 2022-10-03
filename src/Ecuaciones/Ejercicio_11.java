@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 **
 @author nefij
 */
-public class Ejercicio11 {
+public class Ejercicio_11 {
 /**
 * @param args the command line arguments
 */

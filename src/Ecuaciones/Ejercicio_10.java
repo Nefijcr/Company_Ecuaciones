@@ -7,7 +7,7 @@ package Ecuaciones;
 **
 @author nefij
 */
-public class Ejercicio10 {
+public class Ejercicio_10 {
 /**
 * @param args the command line arguments
 */
